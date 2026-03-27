@@ -65,15 +65,15 @@ const systems = [
     color: 'from-rose-500 to-pink-600',
     stats: 'Automated billing'
   },
-  {
-    id: 'randomizer',
-    name: 'Live Raffle',
-    description: 'Random winner selection and live raffle system',
-    icon: Dice6,
-    link: 'https://punx-randomizer.vercel.app/',
-    color: 'from-yellow-500 to-amber-600',
-    stats: 'Fair & random'
-  }
+  // {
+  //   id: 'randomizer',
+  //   name: 'Live Raffle',
+  //   description: 'Random winner selection and live raffle system',
+  //   icon: Dice6,
+  //   link: 'https://punx-randomizer.vercel.app/',
+  //   color: 'from-yellow-500 to-amber-600',
+  //   stats: 'Fair & random'
+  // }
 ]
 
 const features = [
